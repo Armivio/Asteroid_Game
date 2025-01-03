@@ -1,5 +1,5 @@
 # Asteroid_Game
-
+A very basic game in which you control a ship and try to avoid collision with asteroids. You can shoot the asteroids to get rid of them, but some may split into smaller ones!
 Initially made in the boot.dev course "Build Asteroids".
 
 Things to be added (outside the scope of the course):
